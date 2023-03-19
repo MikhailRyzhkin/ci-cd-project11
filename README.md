@@ -18,15 +18,18 @@ Continuous Integration
 http://158.160.14.130:8080/
 
 Скрины выполняемой задачи, настройки pipeline, почты:
-http://joxi.ru/p27NOVgTZEaOxm
-http://joxi.ru/gmvy3KjS0BO5jr
-http://joxi.ru/eAOPlv5TGE3ynr
-http://joxi.ru/bmo3kjBsloZRDm
-http://joxi.ru/D2PP4v6TW1O772
-http://joxi.ru/krDY8w7udLa1Mm
-http://joxi.ru/DmBbnv7H6PbWlm
-http://joxi.ru/52aP8VJT0ZOe1m
-http://joxi.ru/KAg6kjETOew8W2
-http://joxi.ru/EA4y9VaS0Ze7jr
-http://joxi.ru/82QPDvWT43enWm
-http://joxi.ru/Q2KPVvjTgXDKkA
+- http://joxi.ru/p27NOVgTZEaOxm
+- http://joxi.ru/gmvy3KjS0BO5jr
+- http://joxi.ru/eAOPlv5TGE3ynr
+- http://joxi.ru/bmo3kjBsloZRDm
+- http://joxi.ru/D2PP4v6TW1O772
+- http://joxi.ru/krDY8w7udLa1Mm
+- http://joxi.ru/DmBbnv7H6PbWlm
+- http://joxi.ru/52aP8VJT0ZOe1m
+- http://joxi.ru/KAg6kjETOew8W2
+- http://joxi.ru/EA4y9VaS0Ze7jr
+- http://joxi.ru/82QPDvWT43enWm
+- http://joxi.ru/Q2KPVvjTgXDKkA
+- http://joxi.ru/RmzJe3viVGoojm
+- http://joxi.ru/a2XBxv7CpZXq1r
+- http://joxi.ru/4AkKvjZFV1OdXA
